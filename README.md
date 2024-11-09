@@ -1,11 +1,16 @@
-#### Hi there 👋
+## Hi, Natalia here! 👋
 
-#### My name is Natalia Andrade. 
-#### Welcome to my Github profile.
+## About me
 
-#### A little about myself
-#### With experience in SQL, Delphi, JavaScript, HTML and CSS. I have ventured into the world of React, at the same time as I delve into the studies of TypeScript and React Native.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Graduated in Information Systems at Estácio.
+- 💼 Working as a Scrum Master and Developer.
+- 🌱Learning more about agility strategies and backend.
 
-#### Tools and Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-          
+## My Skills
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=Node)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=SQLServer)
+![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi)
